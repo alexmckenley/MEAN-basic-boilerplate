@@ -1,9 +1,9 @@
 {
-  "name": "MEAN-basic-boilerplate",
+  "name": "lmdb",
   "version": "0.0.0",
-  "homepage": "https://github.com/deini/MEAN-basic-boilerplate",
+  "homepage": "",
   "authors": [
-    "Daniel Almaguer <danielalmaguer@gmail.com>"
+    "Alex Taylor <alexmckenley@gmail.com>"
   ],
   "main": "app.js",
   "license": "MIT",

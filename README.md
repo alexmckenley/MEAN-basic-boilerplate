@@ -1,2 +1,3 @@
-MEAN-basic-boilerplate
+LMDB
 ======================
+the Local Movie Database
